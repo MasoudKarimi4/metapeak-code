@@ -1,4 +1,5 @@
 Python code for PCA/Logistic Regression of IHEC Enhancer data 
+Seeing if there are any links between certain regions of the genome, their metapeak activity with cancer/healthy/disease patient samples 
 
 Since the pickle package was used to save variables, you need to run groupings.py first and then run other files
 
